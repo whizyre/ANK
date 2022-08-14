@@ -57,4 +57,21 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN Web TV (540p)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png" tvg-id="ABCNews.au" group-title="Australia",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20367000_ico.png?ts=1654805734" group-title="IPTV",SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20274240_ico.png?ts=1654805804" group-title="IPTV",SPOTV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20394407_ico.png?ts=1654806824" group-title="IPTV",CRIME TIME
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="ASHLEY-FILM",MovieSphere 
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+
+
+
 
